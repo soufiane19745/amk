@@ -1,1 +1,2 @@
-# amk
+# EmortalBot
+EmortalBot
